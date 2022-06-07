@@ -1,8 +1,0 @@
-I just followed allong all of the long tutorial (about 6.5 hours)
-
-I understood everything, and I learned about MongoDB and mongoose.
-
-In the final part, chapter 14, I wasnt able to recreate everything that he did. I failed to make all of the CRUD operations under the employee route.
-My understanding is that we register users, with user role as default. You can modify the users to have Editor or Admin roles dirctly over the
-MongoDB web-UI. I registered a lot of users, changed the roles and everything, the Register/Auth/refresh/delete user works well, but when I tried to
-get/put/post/delete employee, I wasnt able to do it.
